@@ -1,11 +1,11 @@
 /**
- * FGA Mount Group Action
+ * FGA Mount Action
  * Adds token HUD buttons to D&D 5e Group and Vehicle tokens.
  * A Vehicle's "crew" is a roster the GM sets with the Manage Crew button (stored in a flag),
  * since Vehicle actors have no built-in member list like Group actors do.
  * Players cannot create tokens, so their requests go to an active GM by socket.
  */
-const ID = "fga-mount-group-action";
+const ID = "fga-mount-action";
 const SOCKET = `module.${ID}`;
 
 /* ---------- helpers ---------- */

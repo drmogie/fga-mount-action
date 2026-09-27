@@ -1,6 +1,6 @@
-# FGA Mount Group Action
+# FGA Mount Action
 
-Version 2026.09.26.1. For Foundry VTT v13 and the D&D 5e system.
+Version 2026.09.27.1. For Foundry VTT v13 and the D&D 5e system.
 
 Adds buttons to the right-click token HUD of a D&D 5e Group token or Vehicle token.
 

@@ -1,8 +1,8 @@
 {
-  "id": "fga-mount-group-action",
-  "title": "FGA Mount Group Action",
-  "description": "Adds buttons to the right-click token HUD of D&D 5e Group tokens. Players who own a group member can store or place their own token near the group. The GM can extract or store every member within a set range.",
-  "version": "2026.09.26.1",
+  "id": "fga-mount-action",
+  "title": "FGA Mount Action",
+  "description": "Adds buttons to the right-click token HUD of D&D 5e Group and Vehicle tokens. Players who own a member (or crew) can store or place their own token near it. The GM can extract or store every member within a set range.",
+  "version": "2026.09.27.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"

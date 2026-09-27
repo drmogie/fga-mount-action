@@ -1,0 +1,23 @@
+{
+  "FGAMGA.Setting.Radius.Name": "Range in feet",
+  "FGAMGA.Setting.Radius.Hint": "How close a member/crew actor must be to the Group or Vehicle token, and how far around it new tokens are placed.",
+  "FGAMGA.Owner.Place": "Place My Token",
+  "FGAMGA.Owner.Store": "Store My Token",
+  "FGAMGA.Gm.Extract": "Extract Members",
+  "FGAMGA.Gm.Store": "Store Members",
+  "FGAMGA.Err.TooFar": "{name} is more than {range} feet from the group.",
+  "FGAMGA.Err.NoGM": "A GM must be online to do this.",
+  "FGAMGA.Err.NoSpace": "No free space near the group for {name}.",
+  "FGAMGA.Err.NotAllowed": "You are not allowed to do that.",
+  "FGAMGA.Info.Placed": "{count} token(s) placed.",
+  "FGAMGA.Info.Stored": "{count} token(s) stored.",
+  "FGAMGA.Info.Nothing": "Nothing to do.",
+  "FGAMGA.Err.NoReply": "The GM did not answer. The GM must be logged in with this module on.",
+  "FGAMGA.Setting.BlockCombat.Name": "Block groups from combat",
+  "FGAMGA.Setting.BlockCombat.Hint": "Group tokens cannot be added to a combat, and the combat button is hidden on their HUD.",
+  "FGAMGA.Err.GroupCombat": "Groups cannot be added to combat.",
+  "FGAMGA.Gm.ManageCrew": "Manage Crew",
+  "FGAMGA.Crew.Title": "{name} Crew",
+  "FGAMGA.Crew.Save": "Save",
+  "FGAMGA.Crew.None": "No actors available."
+}

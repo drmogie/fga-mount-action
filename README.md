@@ -1,6 +1,6 @@
 # FGA Mount Action
 
-Version 2026.09.27.1. For Foundry VTT v13 and the D&D 5e system.
+Version 2026.09.29.01. For Foundry VTT v13 and the D&D 5e system.
 
 Adds buttons to the right-click token HUD of a D&D 5e Group token or Vehicle token.
 
@@ -39,3 +39,10 @@ Groups cannot be added to combat. This is a world setting, on by default.
 ## Install
 
 Use the manifest URL from your GitHub release for module.json.
+
+## Install from GitHub
+
+In Foundry, open Add-on Modules, then Install Module.
+Paste this Manifest URL and click Install:
+
+`https://github.com/drmogie/fga-mount-action/releases/latest/download/module.json`
